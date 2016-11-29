@@ -1,0 +1,2 @@
+﻿Add-DnsServerResourceRecordA -Name "Sqlserver" -IPv4Address "10.0.0.3"-ZoneName "BlueBuffaloPres.training.local"
+Add-DnsServerResourceRecordA -Name "SharePoint" -IPv4Address "10.0.0.2" -ZoneName "BlueBuffaloPres.training.local"

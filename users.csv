@@ -1,0 +1,12 @@
+FirstName,LastName,SamAccountName,Title
+svc_Farm,Farm Account,svc_Farm,Service Account
+svc_WebSvcAccount,Web App Account,svc_WebSvcAccount,Service Account
+svc_svcaccount,Service App Account,svc_svcaccount,Service Account
+svc_Profile,Profile Account,svc_Profile,Service Account
+svc_Search,Search Content Crawl,vc_Search,Service Account
+svc_Install,Install Account,svc_Install,Service Account
+svc_Sync,Service Account,svc_Sync,Service Account
+svc_SQLDBA,Service Account,svc_SQLDBA,Service Account
+svc_Content,Service Account,svc_Content,Service Account
+svc_superReader,Service Account,svc_superReader,Service Account
+svc_Unattend,Service Account,svc_Unattend,Service Account
